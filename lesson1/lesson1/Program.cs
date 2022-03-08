@@ -10,6 +10,9 @@ namespace lesson1
             string name = Console.ReadLine();
             Console.Clear();
             Console.WriteLine($"Привет, {name}, сегодня {DateTime.Now}");
+            Guid a;
+            a = Guid.NewGuid();
+            Console.WriteLine(a);
             Console.ReadLine();
         }
     }
