@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\homework\lesson3\Задача N4\bin\Debug\Задача N4.exe.config
+C:\Users\user\Desktop\homework\lesson3\Задача N4\bin\Debug\Задача N4.exe
+C:\Users\user\Desktop\homework\lesson3\Задача N4\bin\Debug\Задача N4.pdb
+C:\Users\user\Desktop\homework\lesson3\Задача N4\obj\Debug\Задача N4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\homework\lesson3\Задача N4\obj\Debug\Задача N4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework\lesson3\Задача N4\obj\Debug\Задача N4.exe
+C:\Users\user\Desktop\homework\lesson3\Задача N4\obj\Debug\Задача N4.pdb

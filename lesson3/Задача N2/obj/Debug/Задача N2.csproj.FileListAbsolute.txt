@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\homework\lesson3\Задача N2\bin\Debug\Задача N2.exe.config
+C:\Users\user\Desktop\homework\lesson3\Задача N2\bin\Debug\Задача N2.exe
+C:\Users\user\Desktop\homework\lesson3\Задача N2\bin\Debug\Задача N2.pdb
+C:\Users\user\Desktop\homework\lesson3\Задача N2\obj\Debug\Задача N2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\homework\lesson3\Задача N2\obj\Debug\Задача N2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework\lesson3\Задача N2\obj\Debug\Задача N2.exe
+C:\Users\user\Desktop\homework\lesson3\Задача N2\obj\Debug\Задача N2.pdb
