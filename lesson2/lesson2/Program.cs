@@ -10,6 +10,9 @@ namespace lesson2
     {
         static void Main(string[] args)
         {
+            int a = (int)Math.Pow(2, 1);
+            Console.WriteLine(a);
+            Console.ReadLine();
         }
     }
 }
