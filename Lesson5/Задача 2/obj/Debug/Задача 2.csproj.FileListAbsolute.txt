@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\homework\Lesson5\Задача 2\bin\Debug\Задача 2.exe.config
+C:\Users\user\Desktop\homework\Lesson5\Задача 2\bin\Debug\Задача 2.exe
+C:\Users\user\Desktop\homework\Lesson5\Задача 2\bin\Debug\Задача 2.pdb
+C:\Users\user\Desktop\homework\Lesson5\Задача 2\obj\Debug\Задача 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework\Lesson5\Задача 2\obj\Debug\Задача 2.exe
+C:\Users\user\Desktop\homework\Lesson5\Задача 2\obj\Debug\Задача 2.pdb
