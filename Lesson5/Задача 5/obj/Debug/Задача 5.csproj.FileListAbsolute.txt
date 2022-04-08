@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\homework\Lesson5\Задача 5\bin\Debug\Задача 5.exe.config
+C:\Users\user\Desktop\homework\Lesson5\Задача 5\bin\Debug\Задача 5.exe
+C:\Users\user\Desktop\homework\Lesson5\Задача 5\bin\Debug\Задача 5.pdb
+C:\Users\user\Desktop\homework\Lesson5\Задача 5\obj\Debug\Задача 5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\homework\Lesson5\Задача 5\obj\Debug\Задача 5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework\Lesson5\Задача 5\obj\Debug\Задача 5.exe
+C:\Users\user\Desktop\homework\Lesson5\Задача 5\obj\Debug\Задача 5.pdb

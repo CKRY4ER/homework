@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfToDo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToDo>
+    <Title>Сходить в магазин</Title>
+    <IsDone>true</IsDone>
+  </ToDo>
+  <ToDo>
+    <Title>Выполнить дз</Title>
+    <IsDone>false</IsDone>
+  </ToDo>
+</ArrayOfToDo>
